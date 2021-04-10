@@ -1,2 +1,2 @@
 # simple-food-inventory
-Created with CodeSandbox
+Created with CodeSandbox. A Simple Vue Example.
